@@ -297,7 +297,7 @@ export default function BirchcroftStudioLanding() {
           <div className={styles["birch-contact-item"]}>
             <div className={styles["birch-contact-icon"]}>📍</div>
             <div>
-              <strong>1320 Mifflin St, Philadelphia, PA 19148</strong>
+              <strong>789 Workshop Lane, Your City, ST 00000</strong>
               <br />
               Showroom open by appointment
             </div>
@@ -315,7 +315,7 @@ export default function BirchcroftStudioLanding() {
           <div className={styles["birch-contact-item"]}>
             <div className={styles["birch-contact-icon"]}>✉️</div>
             <div>
-              <strong>hello@example.com</strong>
+              <strong>info@pilgrimkb.com</strong>
               <br />
               For quotes &amp; project inquiries
             </div>
@@ -384,7 +384,7 @@ export default function BirchcroftStudioLanding() {
       <div className={styles["birch-footer-logo"]}>
         Birch<span>croft</span>
       </div>
-      <p>© 2026 Birchcroft Studio · Philadelphia, PA · Design &amp; Manufacturing</p>
+      <p>© 2026 Birchcroft Studio · Your City, ST · Design &amp; Manufacturing</p>
       <p className={styles["birch-footer-phone"]}>(555) 246-8100</p>
     </footer>
   </div>

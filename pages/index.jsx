@@ -315,7 +315,7 @@ export default function BirchcroftStudioLanding() {
           <div className={styles["birch-contact-item"]}>
             <div className={styles["birch-contact-icon"]}>✉️</div>
             <div>
-              <strong>sales@example.com</strong>
+              <strong>info@pilgrimkb.com</strong>
               <br />
               For quotes &amp; project inquiries
             </div>
